@@ -4,7 +4,7 @@
   import logo from '../assets/logo.png';
   import background from '../assets/background.jpg';
 
-  const BACKEND_URL = 'https://bgnd.onrender.com/submit';
+  const BACKEND_URL = 'https://thedd.onrender.com/submit';
 
   let verifying = true;
   let lang = 'en';
